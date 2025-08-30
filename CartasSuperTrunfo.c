@@ -2,7 +2,7 @@
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
-// Desafio - Vinicius Matheus Rodrigues
+// Desafio - Vinicius Matheus Rodrigues.
 
 int main(){
    
